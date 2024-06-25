@@ -1,0 +1,39 @@
+PS D:\A0423I1_Nguyen_Thanh_Hoai\module5\06-API\th2> cd src
+PS D:\A0423I1_Nguyen_Thanh_Hoai\module5\06-API\th2\src> cd data
+PS D:\A0423I1_Nguyen_Thanh_Hoai\module5\06-API\th2\src\data> npx json-server --watch db.json --port 8080
+--watch/-w can be omitted, JSON Server 1+ watches for file changes by default
+JSON Server started on PORT :8080
+pm install -g json-server
+npx json-server --watch db.json --port 8080
+
+npm install --save react-modal
+
+
+npm install formix
+npm install yup
+npm install react-router-dom@6
+npm i bootstrap
+npm install react-paginate --save
+
+[Chia sẻ] Source code website Quản Lý Tòa Nhà Văn Phòng - Spring boot - React JS
+
+npm install react-paginate --save
+
+git : 
+mkdir <name> : tao repo
+git init : tao file git
+echo "status" > namefile.txt
+git log --oneline : xem su thay doi
+git push -u origin <namebranch> : put
+ : tao file
+git clone : lay remote ve local
+git branch <name> : tao nhanh
+git branch -l : xem nhanh hien co
+git checkout <name> : chuyen nhanh
+git pull : lay du lieu ve local
+ls : xem cac file hien co trong remote repo
+git merge namebranch : dung trong nhanh minh merge voi nhanh name branch
+git pull origin feature/Register : Ví dụ bạn đang code ở branch feature/Login, anh Leader bảo bạn kéo code nhánh feature/Register về nhánh feature/Login của bạn đi, vì ảnh mới cập nhật trên đó
+
+
+

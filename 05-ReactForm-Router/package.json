@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "formik": "^2.4.5",
+    "formix": "^0.0.1",
+    "lodash": "^4.17.21",
+    "react-router-dom": "^6.22.3",
+    "yup": "^1.4.0"
+  }
+}

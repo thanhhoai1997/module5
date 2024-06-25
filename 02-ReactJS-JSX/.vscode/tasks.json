@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "build",
+			"path": "bt3-profile-card",
+			"group": "build",
+			"problemMatcher": [],
+			"label": "npm: build - bt3-profile-card",
+			"detail": "react-scripts build"
+		}
+	]
+}

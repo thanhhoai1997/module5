@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "build",
+			"path": "02_ReactJS & JSX/bt2-thong-tin-sinh-vien",
+			"group": "build",
+			"problemMatcher": [],
+			"label": "npm: build - 02_ReactJS & JSX/bt2-thong-tin-sinh-vien",
+			"detail": "react-scripts build"
+		}
+	]
+}
